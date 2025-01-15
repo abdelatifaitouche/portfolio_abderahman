@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import Hero from './components/Hero'
-import About from './components/About'
+import Hero from './Components/Hero'
+import About from './Components/About'
 import NavBar from './Components/NavBar'
 
 function App() {
